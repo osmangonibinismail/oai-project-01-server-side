@@ -44,6 +44,7 @@ async function run() {
                 query.category = category;
             }
 
+            // brand
             if (brand) {
                 query.brand = brand;
             }
