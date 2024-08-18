@@ -34,6 +34,7 @@ async function run() {
 
             let query = {};
 
+            // search option
             if (search) {
                 query.productName = { $regex: search, $options: 'i' };
             }
