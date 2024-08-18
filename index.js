@@ -10,7 +10,7 @@ app.use(cors());
 app.use(express.json());
 
 
-
+// mongoDB connection
 const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASS}@biplob.whidwsu.mongodb.net/?retryWrites=true&w=majority&appName=Biplob`;
 
 const client = new MongoClient(uri, {
@@ -90,7 +90,7 @@ async function run() {
     } finally {
         //   await client.close();
     }
-}
+};
 run().catch(console.dir);
 
 app.get('/', (req, res) => {
