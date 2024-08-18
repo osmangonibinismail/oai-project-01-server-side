@@ -39,6 +39,7 @@ async function run() {
                 query.productName = { $regex: search, $options: 'i' };
             }
 
+            // category
             if (category) {
                 query.category = category;
             }
