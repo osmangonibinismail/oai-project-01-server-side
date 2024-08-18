@@ -67,6 +67,7 @@ async function run() {
                 sortOption.productCreationDate = -1;
             }
 
+            // try catch
             try {
                 const products = await productCollection
                     .find(query)
