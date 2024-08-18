@@ -56,6 +56,8 @@ async function run() {
                 query.price = { $gte: minPrice, $lte: maxPrice };
             }
 
+
+            // sort option
             let sortOption = {};
             if (sort === 'price-asc') {
                 sortOption.price = 1;
