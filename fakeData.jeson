@@ -1,0 +1,191 @@
+[
+  {
+    "productName": "EcoWave Stainless Steel Water Bottle",
+    "productImage": "https://example.com/images/ecowave_bottle.jpg",
+    "description": "A durable and eco-friendly stainless steel water bottle that keeps your drinks cold for 24 hours.",
+    "price": 24.99,
+    "category": "Outdoor Gear",
+    "ratings": 4.7,
+    "productCreationDate": "2024-08-15T10:15:30Z"
+  },
+  {
+    "productName": "Lumina Wireless Earbuds",
+    "productImage": "https://example.com/images/lumina_earbuds.jpg",
+    "description": "Experience true wireless freedom with Lumina's crystal clear sound and long-lasting battery.",
+    "price": 79.99,
+    "category": "Electronics",
+    "ratings": 4.5,
+    "productCreationDate": "2024-08-14T14:20:10Z"
+  },
+  {
+    "productName": "ComfyCloud Memory Foam Pillow",
+    "productImage": "https://example.com/images/comfycloud_pillow.jpg",
+    "description": "Sleep like never before with our adaptive memory foam pillow that contours to your head and neck.",
+    "price": 35.50,
+    "category": "Home & Living",
+    "ratings": 4.8,
+    "productCreationDate": "2024-08-13T08:45:00Z"
+  },
+  {
+    "productName": "FitPulse Yoga Mat",
+    "productImage": "https://example.com/images/fitpulse_yogamat.jpg",
+    "description": "Non-slip and durable yoga mat perfect for all your fitness routines.",
+    "price": 29.99,
+    "category": "Fitness",
+    "ratings": 4.6,
+    "productCreationDate": "2024-08-12T16:30:25Z"
+  },
+  {
+    "productName": "Gourmet Blend Coffee Beans",
+    "productImage": "https://example.com/images/gourmet_coffee.jpg",
+    "description": "A rich and aromatic blend of coffee beans sourced from the best plantations.",
+    "price": 15.99,
+    "category": "Food & Beverages",
+    "ratings": 4.9,
+    "productCreationDate": "2024-08-11T12:10:45Z"
+  },
+  {
+    "productName": "SmartHome LED Light Bulb",
+    "productImage": "https://example.com/images/smarthome_led.jpg",
+    "description": "Control your home's lighting with our energy-efficient smart LED bulbs via an app.",
+    "price": 12.99,
+    "category": "Electronics",
+    "ratings": 4.4,
+    "productCreationDate": "2024-08-10T09:25:15Z"
+  },
+  {
+    "productName": "TravelPro Backpack",
+    "productImage": "https://example.com/images/travelpro_backpack.jpg",
+    "description": "A spacious and durable backpack designed for travelers and adventurers.",
+    "price": 49.99,
+    "category": "Outdoor Gear",
+    "ratings": 4.7,
+    "productCreationDate": "2024-08-09T15:50:05Z"
+  },
+  {
+    "productName": "PureGlow Essential Oil Diffuser",
+    "productImage": "https://example.com/images/pureglow_diffuser.jpg",
+    "description": "Fill your space with calming scents using our sleek essential oil diffuser.",
+    "price": 39.99,
+    "category": "Home & Living",
+    "ratings": 4.6,
+    "productCreationDate": "2024-08-08T11:05:55Z"
+  },
+  {
+    "productName": "ZenGarden Bamboo Plant",
+    "productImage": "https://example.com/images/zengarden_bamboo.jpg",
+    "description": "Bring tranquility to your space with our low-maintenance bamboo plant.",
+    "price": 19.99,
+    "category": "Home & Living",
+    "ratings": 4.5,
+    "productCreationDate": "2024-08-07T13:40:20Z"
+  },
+  {
+    "productName": "ChefMaster Non-Stick Pan",
+    "productImage": "https://example.com/images/chefmaster_pan.jpg",
+    "description": "Cook like a pro with our durable and non-stick frying pan.",
+    "price": 27.99,
+    "category": "Kitchenware",
+    "ratings": 4.8,
+    "productCreationDate": "2024-08-06T17:15:35Z"
+  },
+  {
+    "productName": "ProFit Resistance Bands Set",
+    "productImage": "https://example.com/images/profit_bands.jpg",
+    "description": "Enhance your workouts with our set of high-quality resistance bands.",
+    "price": 22.50,
+    "category": "Fitness",
+    "ratings": 4.6,
+    "productCreationDate": "2024-08-05T10:50:50Z"
+  },
+  {
+    "productName": "NatureView Hiking Boots",
+    "productImage": "https://example.com/images/natureview_boots.jpg",
+    "description": "Conquer any trail with our comfortable and durable hiking boots.",
+    "price": 89.99,
+    "category": "Outdoor Gear",
+    "ratings": 4.7,
+    "productCreationDate": "2024-08-04T14:25:40Z"
+  },
+  {
+    "productName": "AquaPure Water Filter Pitcher",
+    "productImage": "https://example.com/images/aquapure_pitcher.jpg",
+    "description": "Enjoy clean and fresh water with our advanced filter pitcher.",
+    "price": 32.99,
+    "category": "Home Appliances",
+    "ratings": 4.5,
+    "productCreationDate": "2024-08-03T08:05:25Z"
+  },
+  {
+    "productName": "SonicBass Bluetooth Speaker",
+    "productImage": "https://example.com/images/sonicbass_speaker.jpg",
+    "description": "Portable Bluetooth speaker with deep bass and long battery life.",
+    "price": 54.99,
+    "category": "Electronics",
+    "ratings": 4.4,
+    "productCreationDate": "2024-08-02T16:40:10Z"
+  },
+  {
+    "productName": "Artisan Ceramic Vase",
+    "productImage": "https://example.com/images/artisan_vase.jpg",
+    "description": "Handcrafted ceramic vase to elevate your home's decor.",
+    "price": 45.00,
+    "category": "Home & Living",
+    "ratings": 4.8,
+    "productCreationDate": "2024-08-01T12:15:55Z"
+  },
+  {
+    "productName": "GlidePro Roller Skates",
+    "productImage": "https://example.com/images/glidepro_skates.jpg",
+    "description": "Enjoy smooth rides with our premium roller skates designed for all levels.",
+    "price": 65.99,
+    "category": "Sports",
+    "ratings": 4.6,
+    "productCreationDate": "2024-07-31T09:30:45Z"
+  },
+  {
+    "productName": "SilkySoft Bed Sheets Set",
+    "productImage": "https://example.com/images/silkysoft_sheets.jpg",
+    "description": "Experience luxury with our ultra-soft and breathable bed sheets.",
+    "price": 59.99,
+    "category": "Home & Living",
+    "ratings": 4.7,
+    "productCreationDate": "2024-07-30T13:05:30Z"
+  },
+  {
+    "productName": "UrbanStyle Denim Jacket",
+    "productImage": "https://example.com/images/urbanstyle_jacket.jpg",
+    "description": "Stay stylish with our classic denim jacket, perfect for any occasion.",
+    "price": 79.50,
+    "category": "Apparel",
+    "ratings": 4.5,
+    "productCreationDate": "2024-07-29T15:40:15Z"
+  },
+  {
+    "productName": "TechGuard Laptop Sleeve",
+    "productImage": "https://example.com/images/techguard_sleeve.jpg",
+    "description": "Protect your laptop with our cushioned and water-resistant sleeve.",
+    "price": 25.99,
+    "category": "Accessories",
+    "ratings": 4.8,
+    "productCreationDate": "2024-07-28T11:20:00Z"
+  },
+  {
+    "productName": "FreshFarm Organic Honey",
+    "productImage": "https://example.com/images/freshfarm_honey.jpg",
+    "description": "Pure and organic honey sourced directly from sustainable farms.",
+    "price": 18.99,
+    "category": "Food & Beverages",
+    "ratings": 4.9,
+    "productCreationDate": "2024-07-27T08:55:50Z"
+  },
+  {
+    "productName": "FlexiGrip Smartphone Holder",
+    "productImage": "https://example.com/images/flexigrip_holder.jpg",
+    "description": "Keep your phone secure with our adjustable and sturdy smartphone holder.",
+    "price": 14.99,
+    "category": "Accessories",
+    "ratings": 4.4,
+    "productCreationDate": "2024-07-26T14:35:25Z"
+  }
+]
