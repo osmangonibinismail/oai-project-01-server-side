@@ -49,6 +49,8 @@ async function run() {
                 query.brand = brand;
             }
 
+            // price range
+
             if (priceRange) {
                 const [minPrice, maxPrice] = priceRange.split('-').map(Number);
                 query.price = { $gte: minPrice, $lte: maxPrice };
